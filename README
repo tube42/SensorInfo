@@ -2,3 +2,6 @@ SensorInfo
 ==========
 
 This utility lets you examine and experiment with hardware sensors (such as accelerometers and light sensors) on your MeeGo/Harmattan phone
+
+This project is aimed at developers who want to experiment with sensor-controlled apps and power-users.
+
