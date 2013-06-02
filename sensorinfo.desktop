@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=sensorinfo
+Exec=/usr/bin/invoker --single-instance --type=d --splash /opt/sensorinfo/splash.png /opt/sensorinfo/bin/sensorinfo
+Icon=/usr/share/icons/hicolor/80x80/apps/sensorinfo80.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable

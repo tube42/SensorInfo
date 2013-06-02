@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/BasicPage.qml</file>
+        <file>qml/Constants.js</file>
+        <file>qml/Logic.js</file>
+        <file>qml/main.qml</file>
+        <file>qml/SensorList.qml</file>
+        <file>qml/BasicListPage.qml</file>
+        <file>qml/SensorInfoPage.qml</file>
+        <file>qml/DataItemDelegate.qml</file>
+        <file>qml/SensorGenericPage.qml</file>
+        <file>qml/SensorOrientationPage.qml</file>
+        <file>qml/SensorAmbientLightPage.qml</file>
+        <file>qml/SensorTapPage.qml</file>
+        <file>qml/TextBox.qml</file>
+        <file>qml/SensorGruePage.qml</file>
+        <file>qml/BaseSensorDataPage.qml</file>
+        <file alias="qml/UserTheme.qml">qml/harmattan/UserTheme.qml</file>
+        <file>qml/SensorCompassPage.qml</file>
+        <file>qml/About.qml</file>
+        <file>qml/MainPage.qml</file>
+        <file>images/compass3.png</file>
+        <file>images/compassP2.png</file>
+        <file>images/compass4.png</file>
+    </qresource>
+</RCC>
